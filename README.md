@@ -48,10 +48,10 @@ Program Menu:
 
 
 File Structure:
-1. main.c - Menu-driven interface & user inputs.
-2. ridesharing.c - Core logic (queue, graph, matching, ride completion)
-3. ridesharing.h - Header with structs & function declarations
-4. README.md - Documentation & usage instructions
+1. README.md - Documentation & usage instructions
+2. rideshare.c - Core logic (queue, graph, matching, ride completion)
+3. rideshare.h - Header with structs & function declarations
+4. rideshare_main.c-Menu-driven interface & user inputs.
 
 
 
