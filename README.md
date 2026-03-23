@@ -54,8 +54,8 @@ In terminal
 4. rideshare_main.c-Menu-driven interface & user inputs.
 
 ## Author
-Namitha.N.Reddy
-B.Tech(CSEAIML)
+Nihira Hassan
+B.Tech-CSE(AIML)
 
 
 
