@@ -53,9 +53,6 @@ In terminal
 3. rideshare.h - Header with structs & function declarations
 4. rideshare_main.c-Menu-driven interface & user inputs.
 
-## Author
-Nihira Hassan
-
 
 
 
