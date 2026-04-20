@@ -55,7 +55,6 @@ In terminal
 
 ## Author
 Nihira Hassan
-B.Tech-CSE(AIML)
 
 
 
